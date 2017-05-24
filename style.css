@@ -1,0 +1,71 @@
+/* Here goes your CSS */
+body {
+  background-color: #D3D6DB;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.6em
+  display: block;
+  margin: 10px;
+}
+
+h1 {
+  font-size: 27px;
+  color: #2D6399;
+}
+
+h2 {
+  font-size: 17px;
+  line-height: 0.5em;
+}
+
+h3 {
+  color: #7AB3EF;
+  font-size: 18px;
+  line-height: 0.5em;
+}/* Here goes your CSS */
+
+p {
+  color: rgb(50,50,50);
+  font-family: 'Crimson Text', serif;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+div {
+  display: block;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 55%;
+}
+
+.list-inline{
+    padding-left: 0;
+}
+
+.list-inline li{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.no-decoration{
+  color: blue;
+}
